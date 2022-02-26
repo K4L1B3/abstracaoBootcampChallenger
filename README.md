@@ -1,8 +1,5 @@
 # abstracaoBootcampChallenger
 
-
-# helicopterGame
-
 <br/>
 <br/>
 <div display="inline" align="center">
